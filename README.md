@@ -1,2 +1,2 @@
 # Instant-chat
-node即时聊天。
+即时聊天。
